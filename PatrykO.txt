@@ -1,1 +1,2 @@
-zwierze: mały głód.
+zwierze: #blabla#mały głód.
+kolor zolty

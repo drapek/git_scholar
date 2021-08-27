@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 zwierze: nie mam kolor: #000000
