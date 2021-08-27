@@ -1,1 +1,1 @@
-zwierze: nie mam
+zwierze: nie mam kolor: #000000
